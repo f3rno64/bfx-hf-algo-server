@@ -1,4 +1,6 @@
 # 1.4.3
+- feature: enable OCOCO on example server
+- refactor: disable DMS on example server
 - meta: update dependencies
 
 # 1.4.2
